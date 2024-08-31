@@ -168,3 +168,4 @@ figure(1)
 plot(t,y_hist,'LineWidth',2);
 hold on
 plot(t,y,'r--','LineWidth',2)
+legend('unfiltered', 'filtered')
